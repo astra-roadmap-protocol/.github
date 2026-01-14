@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/astra-roadmap-protocol/.github/main/logo/ASTRA%20BANNER.png" alt="ASTRA Banner" width="1200">
+  <img src="https://github.com/astra-roadmap-protocol/.github/blob/master/logo/ASTRA%20BANNER.png" alt="ASTRA Banner" width="1200">
 </div>
 
 # ASTRA GitHub Organization
