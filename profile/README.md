@@ -19,4 +19,4 @@ ASTRA is a transparent, decentralized learning marketplace that connects learner
 
 Explore our documentation and join the future of decentralized education.
 
-**Learn more**: [Documentation](https://github.com/astra-roadmap-protocol/tree/master/docs)
+**Learn more**: [Documentation](https://github.com/astra-roadmap-protocol/.github/tree/master/docs)
