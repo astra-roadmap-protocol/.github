@@ -1,0 +1,25 @@
+{
+  "name": "astra-profile",
+  "version": "1.0.0",
+  "description": "ASTRA Profile - Documentation and asset repository for ASTRA learning platform",
+  "private": true,
+  "scripts": {
+    "commit": "node version/scripts/parallel-commit.js",
+    "commit:dry": "node version/scripts/parallel-commit.js --dry-run",
+    "commit:sh": "bash version/scripts/parallel-commit.sh",
+    "commit:sh:dry": "bash version/scripts/parallel-commit.sh --dry-run",
+    "commit:all": "git add -A && git commit -m \"chore: update project files\"",
+    "commit:auto": "bash version/scripts/parallel-commit.sh --max 3",
+    "status": "git status",
+    "changes": "git status --porcelain",
+    "staged": "git diff --cached --name-only"
+  },
+  "keywords": [
+    "astra",
+    "learning-platform",
+    "documentation"
+  ],
+  "author": "",
+  "license": "GPL-3.0"
+}
+
